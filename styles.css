@@ -1,3 +1,10 @@
-#header-img{
+#header-img {
     width: 300px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    justify-content: space-around;
+    width: 100%;
 }
